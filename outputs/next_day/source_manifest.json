@@ -1,0 +1,82 @@
+[
+  {
+    "path": "2019-citibike-tripdata/4_April/201904-citibike-tripdata_1.csv",
+    "bytes": 180553113,
+    "mtime_ns": 1708383111000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/4_April/201904-citibike-tripdata_2.csv",
+    "bytes": 138335737,
+    "mtime_ns": 1708383121000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/5_May/201905-citibike-tripdata_1.csv",
+    "bytes": 180474740,
+    "mtime_ns": 1708383151000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/5_May/201905-citibike-tripdata_2.csv",
+    "bytes": 167167644,
+    "mtime_ns": 1708383162000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/6_June/201906-citibike-tripdata_1.csv",
+    "bytes": 180682497,
+    "mtime_ns": 1708383190000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/6_June/201906-citibike-tripdata_2.csv",
+    "bytes": 180589498,
+    "mtime_ns": 1708383202000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/6_June/201906-citibike-tripdata_3.csv",
+    "bytes": 22719550,
+    "mtime_ns": 1708383203000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/7_July/201907-citibike-tripdata_1.csv",
+    "bytes": 184501451,
+    "mtime_ns": 1708383232000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/7_July/201907-citibike-tripdata_2.csv",
+    "bytes": 184244928,
+    "mtime_ns": 1708383245000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/7_July/201907-citibike-tripdata_3.csv",
+    "bytes": 33321993,
+    "mtime_ns": 1708383247000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/8_August/201908-citibike-tripdata_1.csv",
+    "bytes": 184319912,
+    "mtime_ns": 1707841533000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/8_August/201908-citibike-tripdata_2.csv",
+    "bytes": 184130960,
+    "mtime_ns": 1707841546000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/8_August/201908-citibike-tripdata_3.csv",
+    "bytes": 63287709,
+    "mtime_ns": 1707841551000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/9_September/201909-citibike-tripdata_1.csv",
+    "bytes": 179837782,
+    "mtime_ns": 1708383344000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/9_September/201909-citibike-tripdata_2.csv",
+    "bytes": 179942782,
+    "mtime_ns": 1708383356000000000
+  },
+  {
+    "path": "2019-citibike-tripdata/9_September/201909-citibike-tripdata_3.csv",
+    "bytes": 80073400,
+    "mtime_ns": 1708383361000000000
+  }
+]

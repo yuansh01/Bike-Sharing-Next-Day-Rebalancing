@@ -1,0 +1,11 @@
+{
+  "raw_rows": 12786215,
+  "invalid_rows": 143,
+  "outside_start_period": 0,
+  "duplicate_key_hashes": 0,
+  "september_trips": 2444900,
+  "excluded_unseen_station_trips": 13400,
+  "stations": 841,
+  "retained_september_trips": 2431500,
+  "source_files": 16
+}

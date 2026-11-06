@@ -1,0 +1,29 @@
+# Raw Citi Bike trip files are too large for GitHub
+2019-citibike-tripdata/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets or credentials
+.env
+.env.*
+*.pem
+*.key
+
+# macOS / temporary
+.DS_Store
+*.log
+
+# Optional large intermediate arrays
+*.parquet
+*.pkl
+
+# Large reproducible next-day simulation cache
+outputs/next_day/prepared.npz

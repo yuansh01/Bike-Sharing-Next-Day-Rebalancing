@@ -1,0 +1,16 @@
+4_April/201904-citibike-tripdata_1.csv
+4_April/201904-citibike-tripdata_2.csv
+5_May/201905-citibike-tripdata_1.csv
+5_May/201905-citibike-tripdata_2.csv
+6_June/201906-citibike-tripdata_1.csv
+6_June/201906-citibike-tripdata_2.csv
+6_June/201906-citibike-tripdata_3.csv
+7_July/201907-citibike-tripdata_1.csv
+7_July/201907-citibike-tripdata_2.csv
+7_July/201907-citibike-tripdata_3.csv
+8_August/201908-citibike-tripdata_1.csv
+8_August/201908-citibike-tripdata_2.csv
+8_August/201908-citibike-tripdata_3.csv
+9_September/201909-citibike-tripdata_1.csv
+9_September/201909-citibike-tripdata_2.csv
+9_September/201909-citibike-tripdata_3.csv
